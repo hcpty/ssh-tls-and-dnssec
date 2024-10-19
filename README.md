@@ -1,7 +1,9 @@
 # Readme
-A note about Man-In-The-Middle Attack.
+A note about DNSSEC, TLS and SSH.
 
-### Man-In-The-Middle Attack
+### DNSSEC, TLS and SSH
 
 ### Credits
-- [Man-in-the-middle attack - Wikipedia](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+- [Domain Name System Security Extensions - Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
+- [Transport Layer Security - Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [Secure Shell - Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
