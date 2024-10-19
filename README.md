@@ -1,7 +1,7 @@
 # Readme
-A note about Network Eavesdropping.
+A note about Man-In-The-Middle Attack.
 
-### Network Eavesdropping
+### Man-In-The-Middle Attack
 
 ### Credits
-- [Network eavesdropping - Wikipedia](https://en.wikipedia.org/wiki/Network_eavesdropping)
+- [Man-in-the-middle attack - Wikipedia](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
