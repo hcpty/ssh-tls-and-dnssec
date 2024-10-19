@@ -1,7 +1,7 @@
 # Readme
-A note about Man-In-The-Middle Attack.
+A note about Network Eavesdropping.
 
-### Man-In-The-Middle Attack
+### Network Eavesdropping
 
 ### Credits
-- Computer Networking: A Top-Down Approach, Eighth Edition
+- [Network eavesdropping - Wikipedia](https://en.wikipedia.org/wiki/Network_eavesdropping)
